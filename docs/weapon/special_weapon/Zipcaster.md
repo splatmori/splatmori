@@ -1,0 +1,12 @@
+---
+title: "触手喷射"
+description: "触手喷射 Zipcaster."
+date: 2022-05-16T13:59:39+01:00
+lastmod: 2022-05-31T13:59:39+01:00
+draft: false
+contributors: ["splat8"]
+weight: 301
+toc: false
+---
+
+能长长地伸展并贴在墙上的触腕，在场地上自由飞行的影子战士`「触手喷射」`，为了避免暴露真面目，当墨汁耗尽时，它会自动返回变声的地方。

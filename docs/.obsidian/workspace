@@ -1,0 +1,152 @@
+{
+  "main": {
+    "id": "41adede97caf682b",
+    "type": "split",
+    "children": [
+      {
+        "id": "608ebaddc041685c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "weapon/special_weapon/Triple_Inkstrike.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f946a642fa725ae6",
+    "type": "split",
+    "children": [
+      {
+        "id": "7f42cc9a2cc48a22",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4bc7cc34c6923b02",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "da2901dc4e76e22f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2451a3181fab9c35",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c0b813b55e04659a",
+    "type": "split",
+    "children": [
+      {
+        "id": "e5165ed03202701c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9d1594c7bd1a796b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "weapon/special_weapon/Triple_Inkstrike.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "66c12fb00179b715",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "weapon/special_weapon/Triple_Inkstrike.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a52a376619b1c9b4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "325611a7f6734d52",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "weapon/special_weapon/Triple_Inkstrike.md"
+              }
+            }
+          },
+          {
+            "id": "b10b4c3b3541856a",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "608ebaddc041685c",
+  "lastOpenFiles": [
+    "weapon/special_weapon/Ink_Vac.md",
+    "weapon/special_weapon/Ink_Storm.md",
+    "weapon/special_weapon/Splashdown.md",
+    "weapon/special_weapon/Crab_Tank.md",
+    "weapon/special_weapon/Booyah_Bomb.md",
+    "weapon/special_weapon/Ultra_Stamp.md",
+    "weapon/special_weapon/Inkjet.md",
+    "weapon/special_weapon/Tenta_Missiles.md",
+    "weapon/special_weapon/Trizooka.md",
+    "weapon/special_weapon/Big_Bubbler.md"
+  ]
+}

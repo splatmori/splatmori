@@ -67,8 +67,11 @@ const config = {
             type: 'doc',
             docId: 'intro',
             position: 'left',
-            label: 'Tutorial',
+            label: '斯普百科',
           },
+          {to: '/docs/category/模式', label: '模式', position: 'left'},
+          {to: '/docs/category/武器', label: '武器', position: 'left'},
+          {to: '/docs/category/场地', label: '场地', position: 'left'},
           {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/facebook/docusaurus',
@@ -127,6 +130,22 @@ const config = {
         darkTheme: darkCodeTheme,
       },
     }),
+
+  plugins: [
+    [
+      '@docusaurus/plugin-ideal-image',
+      {
+        quality: 70,
+        max: 1030, // max resized image's size.
+        min: 640, // min resized image's size. if original is lower, use that size.
+        steps: 2, // the max number of images generated between min and max (inclusive)
+        disableInDev: false, // By default, the plugin is inactive in development
+
+      },
+    ],
+  ]
+
 };
 
 module.exports = config;
+
