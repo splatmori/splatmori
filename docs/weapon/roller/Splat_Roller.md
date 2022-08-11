@@ -3,12 +3,16 @@ title: "中刷 Splat Roller"
 description: "中刷 Roller スプラローラ.."
 lead: "中刷 Splat Roller スプラローラ."
 date: 2022-05-16T13:59:39+01:00
-lastmod: 2020-11-16T13:59:39+01:00
+lastmod: 2022-08-10T13:59:39+01:00
 draft: false
 contributors: ["风森"]
-images: []
+image: ./images/roller_cover.png
 weight: 110
 toc: true
+last_update:  
+ date: 2022-08-10T13:59:39+01:00 
+ author: 斯普 
+---
 ---
 ## 基础信息
 ### 信息卡

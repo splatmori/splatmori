@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "weapon/special_weapon/Triple_Inkstrike.md",
+            "file": "weapon/roller/Splat_Roller.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "weapon/special_weapon/Triple_Inkstrike.md",
+                "file": "weapon/roller/Splat_Roller.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "weapon/special_weapon/Triple_Inkstrike.md",
+                "file": "weapon/roller/Splat_Roller.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "weapon/special_weapon/Triple_Inkstrike.md"
+                "file": "weapon/roller/Splat_Roller.md"
               }
             }
           },
@@ -138,6 +138,7 @@
   },
   "active": "608ebaddc041685c",
   "lastOpenFiles": [
+    "weapon/special_weapon/Triple_Inkstrike.md",
     "weapon/special_weapon/Ink_Vac.md",
     "weapon/special_weapon/Ink_Storm.md",
     "weapon/special_weapon/Splashdown.md",
@@ -146,7 +147,6 @@
     "weapon/special_weapon/Ultra_Stamp.md",
     "weapon/special_weapon/Inkjet.md",
     "weapon/special_weapon/Tenta_Missiles.md",
-    "weapon/special_weapon/Trizooka.md",
-    "weapon/special_weapon/Big_Bubbler.md"
+    "weapon/special_weapon/Trizooka.md"
   ]
 }

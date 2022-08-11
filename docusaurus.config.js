@@ -38,7 +38,8 @@ const config = {
           // Remove this to remove the "edit this page" links.
           editUrl:
             'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
-        },
+          showLastUpdateTime: true,
+          },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
@@ -70,7 +71,7 @@ const config = {
             label: '斯普百科',
           },
           {to: '/docs/category/模式', label: '模式', position: 'left'},
-          {to: '/docs/category/武器', label: '武器', position: 'left'},
+          {to: '/docs/weapon', label: '武器', position: 'left'},
           {to: '/docs/category/场地', label: '场地', position: 'left'},
           {to: '/blog', label: 'Blog', position: 'left'},
           {
@@ -96,16 +97,16 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'Stack Overflow',
+                label: '微博',
                 href: 'https://stackoverflow.com/questions/tagged/docusaurus',
               },
               {
-                label: 'Discord',
+                label: 'QQ交流群',
                 href: 'https://discordapp.com/invite/docusaurus',
               },
               {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                label: 'Bilibili',
+                href: 'https://space.bilibili.com/1413537179',
               },
             ],
           },
