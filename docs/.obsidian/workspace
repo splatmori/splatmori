@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "608ebaddc041685c",
+        "id": "f0efac119c86d1fc",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "weapon/roller/Splat_Roller.md",
+            "file": "mode/Turf_War.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "weapon/roller/Splat_Roller.md",
+                "file": "mode/Turf_War.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "weapon/roller/Splat_Roller.md",
+                "file": "mode/Turf_War.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "weapon/roller/Splat_Roller.md"
+                "file": "mode/Turf_War.md"
               }
             }
           },
@@ -134,19 +134,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "608ebaddc041685c",
+  "active": "f0efac119c86d1fc",
   "lastOpenFiles": [
-    "weapon/special_weapon/Triple_Inkstrike.md",
-    "weapon/special_weapon/Ink_Vac.md",
-    "weapon/special_weapon/Ink_Storm.md",
-    "weapon/special_weapon/Splashdown.md",
-    "weapon/special_weapon/Crab_Tank.md",
-    "weapon/special_weapon/Booyah_Bomb.md",
-    "weapon/special_weapon/Ultra_Stamp.md",
-    "weapon/special_weapon/Inkjet.md",
-    "weapon/special_weapon/Tenta_Missiles.md",
-    "weapon/special_weapon/Trizooka.md"
+    "intro.md",
+    "stages/Museum_dAlfonsino.md",
+    "stages/Undertow_Spillway.md",
+    "stages/Hagglefish_Market.md",
+    "stages/Mincemeat_Metalworks.md",
+    "stages/Eeltail_Alley.md",
+    "stages/Scorch_Gorge.md",
+    "stages/index.md",
+    "stages/unfinish.md",
+    "weapon/special_weapon/Ink_Vac.md"
   ]
 }

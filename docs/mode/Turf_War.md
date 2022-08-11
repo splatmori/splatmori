@@ -1,22 +1,17 @@
 ---
-title: "涂地模式"
+title: "占地对战"
 description: "Splatoon3 斯普拉遁 的涂地模式."
 lead: "Turf War ナンバリバトル."
-date: 2022-04-16T13:59:39+01:00
-lastmod: 2022-05-25T13:59:39+01:00
 draft: false
 images: []
-menu:
-  mode:
-    parent: "mode"
 weight: 1
-contributors: ["splat8"]
-toc: false
+last_update:  
+ date: 2022-08-10 
 ---
 
 ## 模式介绍
 
-喷射战士里最基本的玩法，涂地模式。就是在规定时间结束时候，涂地占的面积越大一方获胜。
+喷射战士里最基本的玩法，涂地模式。就是在规定时间（3分钟）结束时候，涂地占的面积越大一方获胜。
 
 ## 影像
 2022年4月22日官方Twitter放出了Splatoon3涂地模式完整视频，并且公布发售日期。

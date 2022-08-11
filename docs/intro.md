@@ -1,13 +1,10 @@
 ---
 title: "蛮颓地区"
 description: "Splatoon3 斯普拉遁 3 的舞台."
-date: 2022-04-16T13:59:39+01:00
-lastmod: 2022-05-25T13:59:39+01:00
 draft: false
-images: []
-weight: 1
-contributors: ["splat8"]
 sidebar_position: 1
+last_update:  
+ date: 2022-08-10 
 ---
 
 ## 混沌地区的都市
@@ -16,5 +13,5 @@ sidebar_position: 1
 
 
 ---
-### 参考文献
+### 参考资料
 - [斯普拉遁 3 | Nintendo Switch | 任天堂](https://www.nintendo.com.hk/switch/av5ja/)

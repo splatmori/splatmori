@@ -10,7 +10,7 @@ image: ./images/roller_cover.png
 weight: 110
 toc: true
 last_update:  
- date: 2022-08-10T13:59:39+01:00 
+ date: 2022-08-10 
  author: 斯普 
 ---
 ---
@@ -44,6 +44,6 @@ last_update:
 
 --- 
 
-##### 参考资料:  
+### 参考资料:  
 - [<small> Splatoon offcial twitter</small>](https://twitter.com/SplatoonJP/status/1528662017535787008?s=20&t=RxoAVK4Ibbq1AuQlJP4iyA) 
 
