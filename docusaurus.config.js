@@ -65,17 +65,12 @@ const config = {
             type: 'doc',
             docId: 'intro',
             position: 'left',
-            label: '斯普百科',
+            label: '斯普知识库',
           },
           {to: '/docs/category/模式', label: '模式', position: 'left'},
           {to: '/docs/weapon', label: '武器', position: 'left'},
           {to: '/docs/stage', label: '场地', position: 'left'},
           {to: '/blog', label: 'Blog', position: 'left'},
-          {
-            href: 'https://github.com/facebook/docusaurus',
-            label: 'GitHub',
-            position: 'right',
-          },
         ],
       },
       footer: {
