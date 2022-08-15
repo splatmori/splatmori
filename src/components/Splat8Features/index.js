@@ -1,6 +1,6 @@
 import React from 'react';
 import clsx from 'clsx';
-import styles from './styles.module.css';
+// import styles from './styles.module.css';
 import Layout from '@theme/Layout';
 import styles1 from './style.css';
 // import styles2 from './css/bootstrap.min.css';
