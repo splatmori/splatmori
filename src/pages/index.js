@@ -20,6 +20,15 @@ function HomepageHeader() {
             Docusaurus Tutorial - 5min ⏱️
           </Link>
         </div>
+
+        <form>
+        <div class="navbar__search">
+          <input class="navbar__search-input" placeholder="Search" />
+        </div>
+      </form>
+
+
+
       </div>
     </header>
   );
