@@ -69,7 +69,7 @@ const config = {
           },
           {to: '/docs/category/模式', label: '模式', position: 'left'},
           {to: '/docs/weapon', label: '武器', position: 'left'},
-          {to: '/docs/category/stage', label: '场地', position: 'left'},
+          {to: '/docs/stage', label: '场地', position: 'left'},
           {to: '/blog', label: 'Blog', position: 'left'},
           {
             href: 'https://github.com/facebook/docusaurus',

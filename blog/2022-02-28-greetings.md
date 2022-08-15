@@ -1,11 +1,6 @@
 ---
 slug: greetings
 title: Greetings!
-authors:
-  - name: 风森
-    title: Co-creator of Docusaurus 1
-    url: https://github.com/JoelMarcey
-    image_url: https://github.com/JoelMarcey.png
 tags: [greetings]
 ---
 
