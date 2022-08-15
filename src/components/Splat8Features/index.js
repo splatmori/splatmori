@@ -1,7 +1,9 @@
 import React from 'react';
+import clsx from 'clsx';
+import styles from './styles.module.css';
 import Layout from '@theme/Layout';
-import styles from './style.css';
-import styles2 from './css/bootstrap.min.css';
+import styles1 from './style.css';
+// import styles2 from './css/bootstrap.min.css';
 import styles3 from './css/animate.min.css';
 // import styles4 from 'https://fonts.googleapis.com/css?family=Lato:100,300,400,700,900&display=swap&subset=latin,latin-ext';
 // import styles5 from 'https://fonts.googleapis.com/css?family=Source+Sans+Pro&display=swap&subset=latin,latin-ext';
@@ -9,8 +11,6 @@ import styles3 from './css/animate.min.css';
 
 export default function Splat8Features() {
   return (
-    <Layout>
-      {/* <div id="page-loading-blocs-notifaction" class="page-preloader"></div> */}
       <div class="page-container">
          <div class="bloc bg-c-3 d-bloc bloc-bg-texture texture-darken-strong" id="bloc-0">
             <div class="container bloc-lg bloc-lg-lg">
@@ -39,6 +39,5 @@ export default function Splat8Features() {
             </svg>
          </a>
       </div>
-    </Layout>
   );
 }

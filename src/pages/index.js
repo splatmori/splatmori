@@ -1,10 +1,10 @@
 import React from 'react';
 import clsx from 'clsx';
 import Link from '@docusaurus/Link';
+import Splat8Features from '@site/src/components/Splat8Features';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Layout from '@theme/Layout';
 import HomepageFeatures from '@site/src/components/HomepageFeatures';
-import Splat8Features from '@site/src/components/Splat8Features';
 import styles from './index.module.css';
 
 function HomepageHeader() {
@@ -29,6 +29,14 @@ function HomepageHeader() {
 export default function Home() {
   const {siteConfig} = useDocusaurusContext();
   return (
-  <Splat8Features /> 
+    <Layout
+      title={`Hello from ${siteConfig.title}`}
+      description="Description will go into a meta tag in <head />">
+      {/* <HomepageHeader /> */}
+      <main>
+        <Splat8Features />
+        {/* <HomepageFeatures /> */}
+      </main>
+    </Layout>
   );
 }
