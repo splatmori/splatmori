@@ -81,11 +81,7 @@ const config = {
             items: [
               {
                 label: '关于本站',
-                to: '/docs/intro',
-              },
-              {
-                label: '版权声明',
-                to: '/docs/intro',
+                to: '/about',
               },
             ],
           },
@@ -126,6 +122,12 @@ const config = {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
+
+      colorMode: {
+        // "light" | "dark"
+        defaultMode: 'dark',
+        },
+
       algolia: {
         // Algolia 提供的应用 ID
         appId: 'Y8E7B7G465',

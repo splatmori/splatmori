@@ -17,35 +17,101 @@ export default function Splat8Features() {
                <div class="row">
                   <div class="col text-center text-md-start">
                      <h3 class="mg-md h3-style">斯普吧, splat8</h3>
-                     <p class="p-style">分享斯普拉遁（Splatoon）3 的点点滴滴。</p>
+                     <p><a href="#" class="btn btn-d" >分享斯普拉遁（Splatoon）3 的点点滴滴。 搜索请善用右上角的搜索功能。</a></p>
                      <a href="docs/intro" class="btn btn-d scroll-fx-left-in" target="_blank">点击 进入斯普资料库</a>
                   </div>
                </div>
             </div>
          </div>
+
+         
          <div class="bloc bg-bg d-bloc" id="bloc-1">
             <div class="container bloc-lg bloc-sm-lg">
                <div class="row">
                   <div class="col text-center text-md-start animated fadeIn " data-appear-anim-style="fadeIn">
-                     <h4 class="mg-md">正在加油建设中，再等等</h4>
+                     <h4 class="mg-md h3-style">正在加油建设中，再等等</h4>
                      <p>斯普拉遁（日语：スプラトゥーン，英语：Splatoon，中国大陆旧译“喷射战士”、“喷色卡通”，台湾旧译“漆弹大作战”）是由任天堂开发并发行的第三人称射击游戏系列。第一款游戏《Splatoon》于2015年5月在Wii U平台发行。续作《Splatoon2》于2017年7月在任天堂Switch平台发行；其新增下载内容《Octo Expansion》于2018年6月发行。最新作《斯普拉遁3》预计于2022年9月9日在任天堂Switch平台发行，是系列首次中文化的作品。 - 维基百科</p>
                   </div>
                </div>
                
                <div class="row">
-    <div class="col col--3">
-      <div class="col-demo">3</div>
-    </div>
-    <div class="col col--3">
-      <div class="col-demo">3</div>
-    </div>
-    <div class="col col--3">
-      <div class="col-demo">3</div>
-    </div>
-    <div class="col col--3">
-      <div class="col-demo">3</div>
-    </div>
-  </div>
+   <div class="col col--3">
+      <div class="card">
+         <div class="card__image">
+            <img
+               src="/img/worldfest.png"
+               alt="发售前的试射会"
+               title="前夜祭" />
+         </div>
+         <div class="card__body">
+            <h4>发售前的试射会</h4>
+            <small>
+            斯普拉遁3，将会8月27日到28日举办发售前的第一次祭典。该祭典虽然是全球统一举办，但是各个区域的时间段不一样。欧服优先在北京时间27日16点就可以开始。日服的时间为北京时间28日8点开始.
+            </small>
+         </div>
+         <div class="card__footer">
+            <button class="button button--primary button--block">Visit</button>
+         </div>
+      </div>
+   </div>
+   <div class="col col--3">
+   <div class="card">
+         <div class="card__image">
+            <img
+               src="/img/splatoondirect.png"
+               alt="splatoondirect"
+               title="splatoondirect" />
+         </div>
+         <div class="card__body">
+            <h4>Splatoon 3 Direct</h4>
+            <small>
+            2022年8月10日，任天堂公开了斯普拉遁3的直面会。介绍了大部分游戏的内容。包括武器，地图，模式等变化。
+            </small>
+         </div>
+         <div class="card__footer">
+            <button class="button button--primary button--block">Visit</button>
+         </div>
+      </div>
+   </div>
+   <div class="col col--3">
+   <div class="card">
+         <div class="card__image">
+            <img
+               src="/img/splatoondirect.png"
+               alt="splatoondirect"
+               title="splatoondirect" />
+         </div>
+         <div class="card__body">
+            <h4>Splatoon 3 Direct</h4>
+            <small>
+            2022年8月10日，任天堂公开了斯普拉遁3的直面会。介绍了大部分游戏的内容。包括武器，地图，模式等变化。
+            </small>
+         </div>
+         <div class="card__footer">
+            <button class="button button--primary button--block">Visit</button>
+         </div>
+      </div>
+   </div>
+   <div class="col col--3">
+   <div class="card">
+         <div class="card__image">
+            <img
+               src="/img/splatoondirect.png"
+               alt="splatoondirect"
+               title="splatoondirect" />
+         </div>
+         <div class="card__body">
+            <h4>Splatoon 3 Direct</h4>
+            <small>
+            2022年8月10日，任天堂公开了斯普拉遁3的直面会。介绍了大部分游戏的内容。包括武器，地图，模式等变化。
+            </small>
+         </div>
+         <div class="card__footer">
+            <button class="button button--primary button--block">Visit</button>
+         </div>
+      </div>
+   </div>
+</div>
   
             </div>
 

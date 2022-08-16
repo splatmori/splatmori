@@ -148,7 +148,7 @@ a:hover {
 }
 
 .d-bloc .card {
-	color: rgba(0, 0, 0, .5);
+	/* color: rgba(0, 0, 0, .9); */
 }
 
 .d-bloc .card button:hover {
