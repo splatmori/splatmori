@@ -77,16 +77,21 @@ a:hover {
 }
 
 .texture-darken-strong::before {
-	background: rgba(0, 0, 0, 0.8);
+	background: rgba(0, 0, 0, 0.4);
 }
 
 .d-bloc {
-	color: rgba(255, 255, 255, .7);
+	color: var(--ifm-font-color-base);
 }
 
 .d-bloc button:hover {
-	color: rgba(255, 255, 255, .9);
+	color: var(--ifm-link-color);
 }
+
+[data-theme='dark'] .d-bloc,
+.d-bloc button:hover {
+	color: rgba(255, 255, 255, .7);
+  }
 
 .d-bloc .icon-round,
 .d-bloc .icon-square,
@@ -333,7 +338,9 @@ a {
 }
 
 .bg-bg {
-	background-image: url("img/bg.webp");
+	background-image: url("img/bg2.webp");
+	background-size: 200px 200px;
+	background-repeat: repeat;
 }
 
 @media (min-width: 576px) {
