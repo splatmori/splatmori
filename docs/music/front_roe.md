@@ -5,8 +5,8 @@ lead: "Splatoon3的乐队【Front Roe】."
 date: 2022-05-28T13:59:39+01:00
 lastmod: 2022-05-29T21:59:39+01:00
 draft: false
-contributors: ["splat8"]
-images: ['../front_roe.jpg']
+contributors: ["风森"]
+images: ['/front_roe.jpg']
 menu:
   music:
     parent: "music"
@@ -28,5 +28,5 @@ toc: false
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/DNFukfCAdnI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ##### 参考资料:  
-- <small>[Splatoon offcial twitter](https://twitter.com/SplatoonNA/status/1530534375066062848?s=20&t=-fLRJjdgq8Oxj5DdTqRIvw)</small>
+- [<small>Splatoon offcial twitter</small>](https://twitter.com/SplatoonNA/status/1530534375066062848?s=20&t=-fLRJjdgq8Oxj5DdTqRIvw)
 

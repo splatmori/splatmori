@@ -44,13 +44,13 @@ export default function Splat8Features() {
                title="前夜祭" />
          </div>
          <div class="card__body">
-            <h4>发售前的试射会</h4>
+            <h4>试射会 - 石头剪子布</h4>
             <small>
             斯普拉遁3，将会8月27日到28日举办发售前的第一次祭典。该祭典虽然是全球统一举办，但是各个区域的时间段不一样。欧服优先在北京时间27日16点就可以开始。日服的时间为北京时间28日8点开始.
             </small>
          </div>
          <div class="card__footer">
-            <button class="button button--primary button--block">Visit</button>
+            <a class="button button--primary button--block" href="/docs/fest/rock-paper-scissors/">详情</a>
          </div>
       </div>
    </div>
