@@ -31,7 +31,7 @@ export default function Home() {
   return (
     <Layout
       title={`${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
+      description="斯普吧，是斯普拉遁3（Splatoon 3）的一个咨询汇集分享的小站点">
       {/* <HomepageHeader /> */}
       <main>
         <Splat8Features />
