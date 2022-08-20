@@ -11,4 +11,9 @@ tags:
 - 移动攻击
 ---
 
+![多重导弹](./images/Tenta_Missiles_cover.png)
+
 提前锁定敌人，然后发射10到20发导弹去攻击锁定敌人。
+
+#### 参考资料
+- 图片出处：[SplatoonJP](https://twitter.com/SplatoonJP/status/1560189765986635777?s=20&t=lUlTNorTgQLXtigpOgrPuQ)

@@ -11,8 +11,11 @@ tags:
 - 攻击
 ---
 
+![蟹坦克](./images/Crab_Tank_cover.png)
+
 螃蟹型的多足坦克。使用连射力出众的射击，以及攻击范围广的加农炮进行战斗。
 
 
-
+#### 参考资料
+- 图片出处：[SplatoonJP](https://twitter.com/SplatoonJP/status/1560189765986635777?s=20&t=lUlTNorTgQLXtigpOgrPuQ)
 

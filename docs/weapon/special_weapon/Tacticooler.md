@@ -11,4 +11,9 @@ tags:
 - 辅助
 ---
 
+![能量站](./images/Tacticooler_cover.png)
+
 能量站 Tacticooler, 发动的时候会出现冰箱，里面有增强能量的饮料领取.
+
+#### 参考资料
+- 图片出处：[SplatoonJP](https://twitter.com/SplatoonJP/status/1560189765986635777?s=20&t=lUlTNorTgQLXtigpOgrPuQ)
