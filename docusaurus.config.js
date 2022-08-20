@@ -92,7 +92,7 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'QQ交流群',
+                label: 'QQ交流群:907346208',
                 href: '#',
               },
               {

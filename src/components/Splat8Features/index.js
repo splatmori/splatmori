@@ -46,7 +46,7 @@ export default function Splat8Features() {
          <div class="card__body">
             <h4>试射会 - 石头剪子布</h4>
             <small>
-            斯普拉遁3，将会8月27日到28日举办发售前的第一次祭典。该祭典虽然是全球统一举办，但是各个区域的时间段不一样。欧服优先在北京时间27日16点就可以开始。日服的时间为北京时间28日8点开始.
+            斯普拉遁3，将会8月27日或28日举办发售前的祭典活动。该祭典虽然是全球统一举办，但是各个区域的时间段不一样。
             </small>
          </div>
          <div class="card__footer">
@@ -58,18 +58,18 @@ export default function Splat8Features() {
    <div class="card">
          <div class="card__image">
             <img
-               src="/img/splatoondirect.png"
+               src="/img/special-weapon-cover.png"
                alt="splatoondirect"
                title="splatoondirect" />
          </div>
          <div class="card__body">
-            <h4>Splatoon 3 Direct</h4>
+            <h4>splatoon 3 特殊武器汇总</h4>
             <small>
-            2022年8月10日，任天堂公开了斯普拉遁3的直面会。介绍了大部分游戏的内容。包括武器，地图，模式等变化。
+            斯普拉遁3，发售后首先登场的特殊武器（大招）一共有15种，我们对所有武器进行了汇总。
             </small>
          </div>
          <div class="card__footer">
-            <button class="button button--primary button--block">Visit</button>
+         <a class="button button--primary button--block" href="/docs/weapon/special_weapon/">详情</a>
          </div>
       </div>
    </div>

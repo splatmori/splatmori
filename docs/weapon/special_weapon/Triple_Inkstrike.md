@@ -7,8 +7,7 @@ draft: false
 contributors: ["splat8"]
 toc: true
 tags:  
-- 特殊武器
-- Splatoon3
+- 区域占据
 ---
 
 Triple Inkstrike允许投掷三个导弹信标，并向信标落地的地方发射导弹，在撞击时产生墨水的漩涡。

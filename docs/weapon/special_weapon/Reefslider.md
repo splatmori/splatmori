@@ -4,9 +4,11 @@ description: "鲨鱼坐骑，蓄积力量，向前方冲刺，打到对方。"
 date: 2022-05-16T13:59:39+01:00
 lastmod: 2022-08-10T13:59:39+01:00
 draft: false
-contributors: ["splat8"]
-weight: 301
-toc: false
+last_update:  
+ date: 2022-08-19
+ author: 风森
+tags:
+- 攻击
 ---
 
 鲨鱼坐骑，蓄积力量，向前方冲刺，打到对方。停下来的话，就会对周围进行爆炸攻击。

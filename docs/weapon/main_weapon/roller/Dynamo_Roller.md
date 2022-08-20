@@ -21,7 +21,9 @@ toc: true
 
 ## 外观
 
-<img src="../images/Dynamo_Roller.jpg" title="重刷" alt="重刷" width="600"/>
+
+<img src="./images/Dynamo_Roller.jpg" title="重刷" alt="重刷" width="600"/>
+
 
 ## 特征
 

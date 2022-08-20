@@ -4,8 +4,11 @@ description: "螃蟹型的多足坦克。使用连射力出众的射击，以及
 date: 2022-05-16T13:59:39+01:00
 lastmod: 2022-08-10T13:59:39+01:00
 draft: false
-contributors: ["splat8"]
-toc: false
+last_update:  
+ date: 2022-08-19
+ author: 风森
+tags:
+- 攻击
 ---
 
 螃蟹型的多足坦克。使用连射力出众的射击，以及攻击范围广的加农炮进行战斗。
