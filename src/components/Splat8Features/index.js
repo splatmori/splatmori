@@ -79,18 +79,18 @@ export default function Splat8Features() {
    <div class="card">
          <div class="card__image">
             <img
-               src="/img/splatoondirect.png"
-               alt="splatoondirect"
-               title="splatoondirect" />
+               src="/img/stage-cover.png"
+               alt="stage"
+               title="对战场地" />
          </div>
          <div class="card__body">
-            <h4>Splatoon 3 Direct</h4>
+            <h4>对战场地汇总</h4>
             <small>
-            2022年8月10日，任天堂公开了斯普拉遁3的直面会。介绍了大部分游戏的内容。包括武器，地图，模式等变化。
+            斯普拉遁3的对战场地除了新发现的场地之外，还包括一部分斯普拉遁1，2的部分场地。
             </small>
          </div>
          <div class="card__footer">
-            <button class="button button--primary button--block">Visit</button>
+         <a class="button button--primary button--block" href="/docs/stage/">详情</a>
          </div>
       </div>
    </div>
