@@ -7,4 +7,6 @@ last_update:
  date: 2022-08-10 
 ---
 
+![金眼鲷美术馆](./images/Museum_d'Alfonsino.jpeg)
+
 从Splatoon第一代回归，金眼鲷美术馆靠近舞台中心的大型旋转平台已经被修改，现在有两个辐条而不是三个。

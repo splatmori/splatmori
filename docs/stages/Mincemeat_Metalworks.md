@@ -7,4 +7,6 @@ last_update:
  date: 2022-08-10 
 ---
 
+![鱼肉碎金属](./images/MincemeatMetalworksIcon.png)
+
 鱼肉碎金属是一个以废弃货船的金属废料场为基础的对战场地，在水蒸发之前曾经在海洋中。	
