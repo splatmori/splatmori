@@ -119,7 +119,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} 斯普吧|splat8. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} 斯普吧|splat8. `,
       },
       prism: {
         theme: lightCodeTheme,
