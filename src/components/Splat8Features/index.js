@@ -30,7 +30,7 @@ export default function Splat8Features() {
                <div class="row">
                   <div class="col text-center text-md-start animated fadeIn " data-appear-anim-style="fadeIn">
                      <h4 class="mg-md h3-style">正在加油建设中，再等等</h4>
-                     <span class="badge badge--secondary">目前完成：特殊武器的整理（8/20）</span>
+                     <span class="badge badge--secondary">目前完成：副武器汇总页（8/21）特殊武器的整理（8/20）</span>
                      <span class="badge badge--info">施工中🚧 ：地图场地的整理</span>
                      <p>斯普拉遁（日语：スプラトゥーン，英语：Splatoon，中国大陆旧译“喷射战士”、“喷色卡通”，台湾旧译“漆弹大作战”）是由任天堂开发并发行的第三人称射击游戏系列。第一款游戏《Splatoon》于2015年5月在Wii U平台发行。续作《Splatoon2》于2017年7月在任天堂Switch平台发行；其新增下载内容《Octo Expansion》于2018年6月发行。最新作《斯普拉遁3》预计于2022年9月9日在任天堂Switch平台发行，是系列首次中文化的作品。 - 维基百科</p>
                   </div>
