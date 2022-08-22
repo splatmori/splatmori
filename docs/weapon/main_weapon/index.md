@@ -45,6 +45,7 @@ description: 介绍斯普拉遁3（splatoon 3）的各种主武器.
 |----|----|----|----|
 |![Luna_Blaster](./images/S3_Weapon_Main_Luna_Blaster.png)|Luna_Blaster|![溅射弹](../sub_weapon/images/S3_Weapon_Sub_Splat_Bomb.png )  |![触手喷射](../special_weapon/images/Zipcaster.png )|
 |![Blaster](./images/S3_Weapon_Main_Blaster.png)|Blaster|![自动炸弹（暂译）](../sub_weapon/images/S3_Weapon_Sub_Autobomb.png )|![巨大防护罩](../special_weapon/images/Big_Bubbler.png )|
+|![Range Blaster](./images/S3_Weapon_Main_Range_Blaster.png)|![吸弹](../sub_weapon/images/S3_Weapon_Sub_Suction_Bomb.png )|![螃蟹坦克](../special_weapon/images/Crab_Tank.png ) |
 
 
 ## 伞
