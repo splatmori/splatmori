@@ -61,6 +61,8 @@ description: 介绍斯普拉遁3（splatoon 3）的各种主武器.
 |图标|名称|副武器|特殊武器|
 |----|----|----|----|
 |![Splat_Roller](./images/S3_Weapon_Main_Splat_Roller.png)|Splat_Roller|![冰壶弹](../sub_weapon/images/S3_Weapon_Sub_Curling_Bomb.png ) |![巨大防护罩](../special_weapon/images/Big_Bubbler.png )|
+|![Dynamo Roller](./images/S3_Weapon_Main_Dynamo_Roller.png)|Dynamo Roller|![花洒](../sub_weapon/images/S3_Weapon_Sub_Sprinkler.png )|![能量站](../special_weapon/images/Tacticooler.png ) |
+|![Flingza_Roller](./images/S3_Weapon_Main_Flingza_Roller.png)|Flingza_Roller|未知|![多重导弹](../special_weapon/images/Tenta_Missiles.png ) |
 
 ## 笔
 |图标|名称|副武器|特殊武器|
