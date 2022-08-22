@@ -105,7 +105,7 @@ export default function Splat8Features() {
          <div class="card__body">
             <h4>主武器汇总</h4>
             <small>
-            根据目前公开的信息，汇总了部分主武器的信息，包括副武器和特殊武器。
+            根据目前公开的信息，汇总了部分主武器的信息，包括副武器和特殊武器。<span class="badge badge--warning">(持续更新中)</span>
             </small>
          </div>
          <div class="card__footer">

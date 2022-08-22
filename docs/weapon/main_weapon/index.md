@@ -8,6 +8,8 @@ showLastUpdateTime: true
 description: 介绍斯普拉遁3（splatoon 3）的各种主武器.
 ---
 
+<span class="badge badge--secondary">部分武器使用的是2代的图标，等确定后逐步更新3代的图标</span>
+
 ## 单枪
 
 
@@ -46,6 +48,7 @@ description: 介绍斯普拉遁3（splatoon 3）的各种主武器.
 |![Luna_Blaster](./images/S3_Weapon_Main_Luna_Blaster.png)|Luna_Blaster|![溅射弹](../sub_weapon/images/S3_Weapon_Sub_Splat_Bomb.png )  |![触手喷射](../special_weapon/images/Zipcaster.png )|
 |![Blaster](./images/S3_Weapon_Main_Blaster.png)|Blaster|![自动炸弹（暂译）](../sub_weapon/images/S3_Weapon_Sub_Autobomb.png )|![巨大防护罩](../special_weapon/images/Big_Bubbler.png )|
 |![Range Blaster](./images/S3_Weapon_Main_Range_Blaster.png)|Range Blaster|![吸弹](../sub_weapon/images/S3_Weapon_Sub_Suction_Bomb.png )|![螃蟹坦克](../special_weapon/images/Crab_Tank.png ) |
+|![Rapid_Blaster](./images/S3_Weapon_Main_Rapid_Blaster.png)|Rapid_Blaster|![墨阱](../sub_weapon/images/S3_Weapon_Sub_Ink_Mine.png ) |![三重龙卷风](../special_weapon/images/Triple_Inkstrike.png )  |
 
 
 ## 伞
