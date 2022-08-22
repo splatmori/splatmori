@@ -13,7 +13,7 @@ description: 介绍斯普拉遁3（splatoon 3）的各种武器.
 
 ## 主武器
 
-待更新
+[点击这里>>](/docs/main_weapon/)
 
 ## 副武器
 
