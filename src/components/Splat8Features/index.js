@@ -30,7 +30,7 @@ export default function Splat8Features() {
                <div class="row">
                   <div class="col text-center text-md-start animated fadeIn " data-appear-anim-style="fadeIn">
                      <h4 class="mg-md h3-style">正在加油建设中，再等等</h4>
-                     <span class="badge badge--secondary">目前完成：副武器汇总页（8/21）特殊武器的整理（8/20）</span>
+                     <span class="badge badge--secondary">目前完成：初始登场武器的汇总（8/22）副武器汇总页（8/21）特殊武器的整理（8/20）</span>
                      <span class="badge badge--info">施工中🚧 ：地图场地的整理</span>
                      <p>斯普拉遁（日语：スプラトゥーン，英语：Splatoon，中国大陆旧译“喷射战士”、“喷色卡通”，台湾旧译“漆弹大作战”）是由任天堂开发并发行的第三人称射击游戏系列。第一款游戏《Splatoon》于2015年5月在Wii U平台发行。续作《Splatoon2》于2017年7月在任天堂Switch平台发行；其新增下载内容《Octo Expansion》于2018年6月发行。最新作《斯普拉遁3》预计于2022年9月9日在任天堂Switch平台发行，是系列首次中文化的作品。 - 维基百科</p>
                   </div>
@@ -98,18 +98,18 @@ export default function Splat8Features() {
    <div class="card">
          <div class="card__image">
             <img
-               src="/img/splatoondirect.png"
-               alt="splatoondirect"
-               title="splatoondirect" />
+               src="/img/main_weapon_cover.png"
+               alt="main_weapon_cover"
+               title="main_weapon_cover" />
          </div>
          <div class="card__body">
-            <h4>Splatoon 3 Direct</h4>
+            <h4>主武器汇总</h4>
             <small>
-            2022年8月10日，任天堂公开了斯普拉遁3的直面会。介绍了大部分游戏的内容。包括武器，地图，模式等变化。
+            根据目前公开的信息，汇总了部分主武器的信息，包括副武器和特殊武器。
             </small>
          </div>
          <div class="card__footer">
-            <button class="button button--primary button--block">Visit</button>
+            <a class="button button--primary button--block" href="/docs/main_weapon/">详情</a>
          </div>
       </div>
    </div>
