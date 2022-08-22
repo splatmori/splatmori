@@ -17,7 +17,7 @@ export default function Splat8Features() {
                <div class="row">
                   <div class="col text-center text-md-start">
                      <h3 class="mg-md h3-style">斯普吧, splat8</h3>
-                     <p><a href="#" class="btn btn-d" >分享斯普拉遁（Splatoon）3 的点点滴滴。 搜索请善用右上角的搜索功能。</a></p>
+                     <p><a href="#" class="btn btn-d" >分享斯普拉遁（Splatoon）3 的点点滴滴。 搜索请善用右上角的搜索功能。（正在完善中，还无法使用）</a></p>
                      <a href="docs/intro" class="btn btn-d scroll-fx-left-in" target="_blank">点击 进入斯普资料库</a>
                   </div>
                </div>
