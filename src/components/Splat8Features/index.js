@@ -86,7 +86,7 @@ export default function Splat8Features() {
          <div class="card__body">
             <h4>对战场地汇总</h4>
             <small>
-            斯普拉遁3的对战场地除了新发现的场地之外，还包括一部分斯普拉遁1，2的部分场地。
+            斯普拉遁3的对战场地除了新发现的场地之外，还包括一部分斯普拉遁1，2的部分场地。<span class="badge badge--warning">(持续更新中)</span>
             </small>
          </div>
          <div class="card__footer">
