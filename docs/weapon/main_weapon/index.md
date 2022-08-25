@@ -15,7 +15,7 @@ description: 介绍斯普拉遁3（splatoon 3）的各种主武器.
 
 |图标|名称|副武器|特殊武器|
 |----|----|----|----|
-|![Splattershot Jr.](./images/S3_Weapon_Main_Splattershot_Jr.png)|新叶射击枪|![斯普拉炸弹](../sub_weapon/images/S3_Weapon_Sub_Splat_Bomb.png )  |![巨大防护罩](../special_weapon/images/Big_Bubbler.png )  |
+|![Splattershot_Jr](./images/S3_Weapon_Main_Splattershot_Jr.png)|新叶射击枪|![斯普拉炸弹](../sub_weapon/images/S3_Weapon_Sub_Splat_Bomb.png )  |![巨大防护罩](../special_weapon/images/Big_Bubbler.png )  |
 |![Sploosh-o-matic](./images/S3_Weapon_Main_Sploosh-o-matic.png)|Sploosh-o-matic|![冰壶炸弹](../sub_weapon/images/S3_Weapon_Sub_Curling_Bomb.png ) |![终极印章](../special_weapon/images/Ultra_Stamp.png ) |
 |![Splash-o-matic](./images/S3_Weapon_Main_Splash-o-matic.png)|Splash-o-matic|![爆裂弹](../sub_weapon/images/S3_Weapon_Sub_Burst_Bomb.png )|![螃蟹坦克](../special_weapon/images/Crab_Tank.png )  |
 |![Splattershot](./images/S3_Weapon_Main_Splattershot.png)|斯普拉射击枪|![吸盘炸弹](../sub_weapon/images/S3_Weapon_Sub_Suction_Bomb.png ) |![终极发射](../special_weapon/images/Trizooka.png )  |
