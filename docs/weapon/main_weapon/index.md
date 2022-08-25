@@ -21,7 +21,7 @@ description: 介绍斯普拉遁3（splatoon 3）的各种主武器.
 |![Splattershot](./images/S3_Weapon_Main_Splattershot.png)|斯普拉射击枪|![吸盘炸弹](../sub_weapon/images/S3_Weapon_Sub_Suction_Bomb.png ) |![终极发射](../special_weapon/images/Trizooka.png )  |
 |![N-ZAP_'85](./images/S3_Weapon_Main_N-ZAP_'85.png)|N-ZAP85|![吸盘炸弹](../sub_weapon/images/S3_Weapon_Sub_Suction_Bomb.png ) |![能量站](../special_weapon/images/Tacticooler.png )  |
 |![.52_Gal](./images/S3_Weapon_Main_.52_Gal.png)|.52加仑|![斯普拉防护墙](../sub_weapon/images/S3_Weapon_Sub_Splash_Wall.png )|![喇叭雷射5.1ch](../special_weapon/images/Killer_Wail_5_1.png ) |
-|![.96_Gal](./images/S3_Weapon_Main_.96_Gal.png)|.96加仑||![洒墨器](../sub_weapon/images/S3_Weapon_Sub_Sprinkler.png ) |![吸墨器](../special_weapon/images/Ink_Vac.png ) |
+|![.96_Gal](./images/S3_Weapon_Main_.96_Gal.png)|.96加仑|![洒墨器](../sub_weapon/images/S3_Weapon_Sub_Sprinkler.png ) |![吸墨器](../special_weapon/images/Ink_Vac.png ) |
 |![Splattershot_Pro](./images/S3_Weapon_Main_Splattershot_Pro.png)|顶尖射击枪|![标线器](../sub_weapon/images/S3_Weapon_Sub_Angle_Shooter.png) |![螃蟹坦克](../special_weapon/images/Crab_Tank.png ) |
 |![Aerospray_MG](./images/S3_Weapon_Main_Aerospray_MG.png)|专业模型枪MG|![碳酸炸弹](../sub_weapon/images/S3_Weapon_Sub_Fizzy_Bomb.png )  |![鲨鱼坐骑](../special_weapon/images/Reefslider.png )  |
 |![Jet_Squelcher](./images/S3_Weapon_Main_Jet_Squelcher.png)|Jet_Squelcher|![标线器](../sub_weapon/images/S3_Weapon_Sub_Angle_Shooter.png)|![吸墨器](../special_weapon/images/Ink_Vac.png ) |
