@@ -32,6 +32,9 @@ description: 介绍斯普拉遁3（splatoon 3）的各种武器.
 | ![鱼雷](./sub_weapon/images/S3_Weapon_Sub_Torpedo.png )                 | [鱼雷](./weapon/sub_weapon/Torpedo)                 | 当进入目标范围时，它可以变成一个漂浮的归航导弹。导弹本身不能单独溅射对手，但会造成大量的伤害。该导弹可以被对方玩家击落。|
 | ![洒墨器](./sub_weapon/images/S3_Weapon_Sub_Sprinkler.png )                | [洒墨器](./weapon/sub_weapon/Sprinkler)                | 以交错的方式在自己周围的圆形区域内持续喷洒墨水，直到被敌人的火力打断。它几乎可以被投掷到任何表面。|
 | ![毒雾](./sub_weapon/images/S3_Weapon_Sub_Toxic_Mist.png )              | [毒雾](./weapon/sub_weapon/Toxic_Mist)              | 一个释放毒雾的炸弹，对接触到它的对手造成负面状态影响。受影响的敌人将遭受行动力下降和逐渐失去墨水供应。毒雾在使用后会在短时间内保持活性。|
+| ![跳跃信标](./sub_weapon/images/S3_Weapon_Sub_Squid_Beakon.png )              | [跳跃信标](./Squid_Beakon)              | 它们是放置在用户脚下的小装置，可以由自己队伍中的任何人进行超级跳跃。|
+| ![索敌盒](./sub_weapon/images/S3_Weapon_Sub_Point_Sensor.png )              | [索敌盒](./Point_Sensor)              | 一旦抛出，索敌盒就会在一团黑色的云中爆炸，其颜色与用户的墨水相同，一些黑色的箭头围绕着点状传感器被抛出的区域。被点传感器标记的敌人被类似的箭头所包围，并以用户墨水颜色的线条与用户联系在一起，尽管这条线条只有用户自己能看到。|
+
 
 
 

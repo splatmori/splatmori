@@ -41,7 +41,7 @@ description: 介绍斯普拉遁3（splatoon 3）的各种主武器.
 ## 狙击枪
 |图标|名称|副武器|特殊武器|解放等级|
 |----|----|----|----|----|
-|![Classic_Squiffer](./images/S3_Weapon_Main_Classic_Squiffer.png)|Classic_Squiffer|索敌盒|![巨大防护罩](../special_weapon/images/Big_Bubbler.png )|8|
+|![Classic_Squiffer](./images/S3_Weapon_Main_Classic_Squiffer.png)|Classic_Squiffer|![索敌盒](../sub_weapon/images/S3_Weapon_Sub_Point_Sensor.png ) |![巨大防护罩](../special_weapon/images/Big_Bubbler.png )|8|
 |![Splat_Charger](./images/S3_Weapon_Main_Splat_Charger.png)|斯普拉蓄力狙击枪|![斯普拉炸弹](../sub_weapon/images/S3_Weapon_Sub_Splat_Bomb.png )  |![吸墨器](../special_weapon/images/Ink_Vac.png ) |2|
 |![Splat_Charger](./images/S3_Weapon_Main_Splat_Charger.png)|斯普准星枪|![斯普拉炸弹](../sub_weapon/images/S3_Weapon_Sub_Splat_Bomb.png )  |![吸墨器](../special_weapon/images/Ink_Vac.png ) |10|
 |![E-liter_4K](./images/S3_Weapon_Main_E-liter_4K.png)|公升4K|![墨汁陷阱](../sub_weapon/images/S3_Weapon_Sub_Ink_Mine.png ) |![弹跳声纳](../special_weapon/images/Wave_Breaker.png )  |18|
@@ -57,7 +57,7 @@ description: 介绍斯普拉遁3（splatoon 3）的各种主武器.
 |![Heavy_Splatling](./images/S3_Weapon_Main_Heavy_Splatling.png)|桶装旋转枪|![洒墨器](../sub_weapon/images/S3_Weapon_Sub_Sprinkler.png )  |![弹跳声纳](../special_weapon/images/Wave_Breaker.png )  |4|
 |![Hydra_Splatling](./images/S3_Weapon_Main_Hydra_Splatling.png)|消防栓旋转枪|![机器人炸弹](../sub_weapon/images/S3_Weapon_Sub_Autobomb.png )|![赞气弹](../special_weapon/images/Booyah_Bomb.png)|20|
 |![Ballpoint_Splatling](./images/S3_Weapon_Main_Ballpoint_Splatling.png)|Ballpoint_Splatling|![碳酸炸弹](../sub_weapon/images/S3_Weapon_Sub_Fizzy_Bomb.png )|![喷射背包](../special_weapon/images/Inkjet.png ) |30|
-|![Nautilus_47](./images/S3_Weapon_Main_Nautilus_47.png)|Nautilus_47|索敌盒|![墨雨云](../special_weapon/images/Ink_Storm.png ) |28|
+|![Nautilus_47](./images/S3_Weapon_Main_Nautilus_47.png)|Nautilus_47|![索敌盒](../sub_weapon/images/S3_Weapon_Sub_Point_Sensor.png ) |![墨雨云](../special_weapon/images/Ink_Storm.png ) |28|
 
 ## 泡
 |图标|名称|副武器|特殊武器|解放等级|
@@ -65,7 +65,7 @@ description: 介绍斯普拉遁3（splatoon 3）的各种主武器.
 |![Luna_Blaster](./images/S3_Weapon_Main_Luna_Blaster.png)|新星爆破枪|![斯普拉炸弹](../sub_weapon/images/S3_Weapon_Sub_Splat_Bomb.png )  |![触手喷射](../special_weapon/images/Zipcaster.png )||
 |![Blaster](./images/S3_Weapon_Main_Blaster.png)|火热爆破枪|![机器人炸弹](../sub_weapon/images/S3_Weapon_Sub_Autobomb.png )|![巨大防护罩](../special_weapon/images/Big_Bubbler.png )||
 |![Range Blaster](./images/S3_Weapon_Main_Range_Blaster.png)|Range Blaster|![吸盘炸弹](../sub_weapon/images/S3_Weapon_Sub_Suction_Bomb.png )|![螃蟹坦克](../special_weapon/images/Crab_Tank.png ) |11|
-|![Clash_Blaster](./images/S3_Weapon_Main_Range_Blaster.png)|Clash_Blaster|![斯普拉炸弹](../sub_weapon/images/S3_Weapon_Sub_Splat_Bomb.png ) |![终极发射](../special_weapon/images/Trizooka.png )  |22|
+|![Clash_Blaster](./images/S3_Weapon_Main_Clash_Blaster.png)|Clash_Blaster|![斯普拉炸弹](../sub_weapon/images/S3_Weapon_Sub_Splat_Bomb.png ) |![终极发射](../special_weapon/images/Trizooka.png )  |22|
 |![Rapid_Blaster](./images/S3_Weapon_Main_Rapid_Blaster.png)|Rapid_Blaster|![墨汁陷阱](../sub_weapon/images/S3_Weapon_Sub_Ink_Mine.png ) |![三重龙卷风](../special_weapon/images/Triple_Inkstrike.png )  |7|
 |![Rapid_Blaster_Pro](./images/S3_Weapon_Main_Rapid_Blaster_Pro.png)|Rapid_Blaster_Pro|![毒雾](../sub_weapon/images/S3_Weapon_Sub_Toxic_Mist.png ) |![吸墨器](../special_weapon/images/Ink_Vac.png )  |26|
 
@@ -98,7 +98,7 @@ description: 介绍斯普拉遁3（splatoon 3）的各种主武器.
 |![Slosher](./images/S3_Weapon_Main_Tri-Slosher.png)|洗笔桶|![毒雾](../sub_weapon/images/S3_Weapon_Sub_Toxic_Mist.png ) |![喷射背包](../special_weapon/images/Inkjet.png ) |10|
 |![Sloshing_Machine](./images/S3_Weapon_Main_Sloshing_Machine.png)|Sloshing_Machine|![碳酸炸弹](../sub_weapon/images/S3_Weapon_Sub_Fizzy_Bomb.png ) |![赞气弹](../special_weapon/images/Booyah_Bomb.png)|14|
 |![Bloblobber](./images/S3_Weapon_Main_Bloblobber.png)|满溢泡澡泼桶|![洒墨器](../sub_weapon/images/S3_Weapon_Sub_Sprinkler.png )|![墨雨云](../special_weapon/images/Ink_Storm.png ) |14|
-|![Explosher](./images/S3_Weapon_Main_Explosher.png)|Explosher|索敌盒|![墨雨云](../special_weapon/images/Ink_Storm.png ) |29|
+|![Explosher](./images/S3_Weapon_Main_Explosher.png)|Explosher|![索敌盒](../sub_weapon/images/S3_Weapon_Sub_Point_Sensor.png ) |![墨雨云](../special_weapon/images/Ink_Storm.png ) |29|
 
 
 ## 弓
