@@ -1,6 +1,6 @@
 ---
-title: "碳酸弹"
-description: "碳酸弹"
+title: "碳酸炸弹"
+description: "碳酸炸弹"
 date: 2022-05-16T13:59:39+01:00
 lastmod: 2022-05-31T13:59:39+01:00
 draft: false

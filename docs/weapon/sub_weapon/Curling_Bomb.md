@@ -1,6 +1,6 @@
 ---
-title: "冰壶弹"
-description: "冰壶弹"
+title: "冰壶炸弹"
+description: "冰壶炸弹"
 date: 2022-05-16T13:59:39+01:00
 lastmod: 2022-05-31T13:59:39+01:00
 draft: false

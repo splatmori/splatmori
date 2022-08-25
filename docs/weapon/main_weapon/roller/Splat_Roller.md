@@ -16,7 +16,7 @@ last_update:
 ### 信息卡
 | 图像 | 系统类别 | 副武器 | 特殊武器 | 攻击力 | 射程 | 射速 | 购买等级 |
 | ---- | -------- | ------ | -------- | ---- | ---- | ---- | -------- |
-| 4    | 刷子     | ![冰壶弹](../../sub_weapon/images/S3_Weapon_Sub_Curling_Bomb.png )   | ![巨大防护罩](../../special_weapon/images/Big_Bubbler.png )     | 48   | 45   | 55   | 未知       | 
+| 4    | 刷子     | ![冰壶炸弹](../../sub_weapon/images/S3_Weapon_Sub_Curling_Bomb.png )   | ![巨大防护罩](../../special_weapon/images/Big_Bubbler.png )     | 48   | 45   | 55   | 未知       | 
 
 ### 外观
 

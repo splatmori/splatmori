@@ -1,6 +1,6 @@
 ---
-title: "泼水墙"
-description: "泼水墙"
+title: "斯普拉防护墙"
+description: "斯普拉防护墙"
 date: 2022-05-16T13:59:39+01:00
 lastmod: 2022-05-31T13:59:39+01:00
 draft: false
