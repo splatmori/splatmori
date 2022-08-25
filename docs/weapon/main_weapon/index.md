@@ -34,7 +34,7 @@ description: 介绍斯普拉遁3（splatoon 3）的各种主武器.
 |![Dapple_Dualies](./images/S3_Weapon_Main_Dapple_Dualies.png)|溅镀枪|![跳跃信标](../sub_weapon/images/S3_Weapon_Sub_Squid_Beakon.png )  |!![能量站](../special_weapon/images/Tacticooler.png )|14|
 |![Splat_Dualies](./images/S3_Weapon_Main_Splat_Dualies.png)|斯普拉机动枪|![吸盘炸弹](../sub_weapon/images/S3_Weapon_Sub_Suction_Bomb.png ) |![螃蟹坦克](../special_weapon/images/Crab_Tank.png ) |3|
 |![Glooga_Dualies](./images/S3_Weapon_Main_Glooga_Dualies.png)|Glooga_Dualies|![斯普拉防护墙](../sub_weapon/images/S3_Weapon_Sub_Splash_Wall.png )|![赞气弹](../special_weapon/images/Booyah_Bomb.png)|21|
-|![Dualie_Squelchers](./images/S3_Weapon_Main_Dualie_Squelchers.png)|Dualie_Squelchers|![斯普拉炸弹](../sub_weapon/images/S3_Weapon_Sub_Splat_Bomb.png ) |[弹跳声纳](../special_weapon/images/Wave_Breaker.png ) |8|
+|![Dualie_Squelchers](./images/S3_Weapon_Main_Dualie_Squelchers.png)|Dualie_Squelchers|![斯普拉炸弹](../sub_weapon/images/S3_Weapon_Sub_Splat_Bomb.png ) |![弹跳声纳](../special_weapon/images/Wave_Breaker.png ) |8|
 |![Dark_Tetra_Dualies](./images/S3_Weapon_Main_Dark_Tetra_Dualies.png)|四重弹跳手枪|![机器人炸弹](../sub_weapon/images/S3_Weapon_Sub_Autobomb.png )|![鲨鱼坐骑](../special_weapon/images/Reefslider.png )|17|
 
 
@@ -47,13 +47,13 @@ description: 介绍斯普拉遁3（splatoon 3）的各种主武器.
 |![E-liter_4K](./images/S3_Weapon_Main_E-liter_4K.png)|公升4K|![墨汁陷阱](../sub_weapon/images/S3_Weapon_Sub_Ink_Mine.png ) |![弹跳声纳](../special_weapon/images/Wave_Breaker.png )  |18|
 |![E-liter_4K_Scope](./images/S3_Weapon_Main_E-liter_4K_Scope.png)|4K准星枪|![墨汁陷阱](../sub_weapon/images/S3_Weapon_Sub_Ink_Mine.png ) |![弹跳声纳](../special_weapon/images/Wave_Breaker.png )  |27|
 |![Bamboozler_14_Mk_I](./images/S3_Weapon_Main_Bamboozler_14_Mk_I.png)|Bamboozler_14_Mk_I|![机器人炸弹](../sub_weapon/images/S3_Weapon_Sub_Autobomb.png )|![喇叭雷射5.1ch](../special_weapon/images/Killer_Wail_5_1.png )  | 23|
-|![Goo_Tuber](./images/S3_Weapon_Main_Goo_Tuber.png)|Goo_Tuber|![鱼雷](../sub_weapon/images/S3_Weapon_Sub_Torpedo.png )|![终极印章](../special_weapon/images/Ultra_Stamp.png ) |![多重导弹](../special_weapon/images/Tenta_Missiles.png )| 25|
+|![Goo_Tuber](./images/S3_Weapon_Main_Goo_Tuber.png)|Goo_Tuber|![鱼雷](../sub_weapon/images/S3_Weapon_Sub_Torpedo.png )|![终极印章](../special_weapon/images/Ultra_Stamp.png ) | 25|
 
 
 ## 旋转枪
 |图标|名称|副武器|特殊武器|解放等级|
 |----|----|----|----|----|
-|![Mini_Splatling](./images/S3_Weapon_Main_Mini_Splatling.png)|Mini_Splatling|!![快速炸弹](../sub_weapon/images/S3_Weapon_Sub_Burst_Bomb.png)  |![终极印章](../special_weapon/images/Ultra_Stamp.png ) |12|
+|![Mini_Splatling](./images/S3_Weapon_Main_Mini_Splatling.png)|Mini_Splatling|![快速炸弹](../sub_weapon/images/S3_Weapon_Sub_Burst_Bomb.png)  |![终极印章](../special_weapon/images/Ultra_Stamp.png ) |12|
 |![Heavy_Splatling](./images/S3_Weapon_Main_Heavy_Splatling.png)|桶装旋转枪|![洒墨器](../sub_weapon/images/S3_Weapon_Sub_Sprinkler.png )  |![弹跳声纳](../special_weapon/images/Wave_Breaker.png )  |4|
 |![Hydra_Splatling](./images/S3_Weapon_Main_Hydra_Splatling.png)|消防栓旋转枪|![机器人炸弹](../sub_weapon/images/S3_Weapon_Sub_Autobomb.png )|![赞气弹](../special_weapon/images/Booyah_Bomb.png)|20|
 |![Ballpoint_Splatling](./images/S3_Weapon_Main_Ballpoint_Splatling.png)|Ballpoint_Splatling|![碳酸炸弹](../sub_weapon/images/S3_Weapon_Sub_Fizzy_Bomb.png )|![喷射背包](../special_weapon/images/Inkjet.png ) |30|
@@ -67,7 +67,7 @@ description: 介绍斯普拉遁3（splatoon 3）的各种主武器.
 |![Range Blaster](./images/S3_Weapon_Main_Range_Blaster.png)|Range Blaster|![吸盘炸弹](../sub_weapon/images/S3_Weapon_Sub_Suction_Bomb.png )|![螃蟹坦克](../special_weapon/images/Crab_Tank.png ) |11|
 |![Clash_Blaster](./images/S3_Weapon_Main_Range_Blaster.png)|Clash_Blaster|![斯普拉炸弹](../sub_weapon/images/S3_Weapon_Sub_Splat_Bomb.png ) |![终极发射](../special_weapon/images/Trizooka.png )  |22|
 |![Rapid_Blaster](./images/S3_Weapon_Main_Rapid_Blaster.png)|Rapid_Blaster|![墨汁陷阱](../sub_weapon/images/S3_Weapon_Sub_Ink_Mine.png ) |![三重龙卷风](../special_weapon/images/Triple_Inkstrike.png )  |7|
-|![Rapid_Blaster_Pro](./images/S3_Weapon_Main_Rapid_Blaster_Pro.png)|Rapid_Blaster_Pro|[毒雾](../sub_weapon/images/S3_Weapon_Sub_Toxic_Mist.png ) |![吸墨器](../special_weapon/images/Ink_Vac.png )  |26|
+|![Rapid_Blaster_Pro](./images/S3_Weapon_Main_Rapid_Blaster_Pro.png)|Rapid_Blaster_Pro|![毒雾](../sub_weapon/images/S3_Weapon_Sub_Toxic_Mist.png ) |![吸墨器](../special_weapon/images/Ink_Vac.png )  |26|
 
 
 ## 伞
@@ -97,7 +97,7 @@ description: 介绍斯普拉遁3（splatoon 3）的各种主武器.
 |![Slosher](./images/S3_Weapon_Main_Slosher.png)|飞溅泼桶|![斯普拉炸弹](../sub_weapon/images/S3_Weapon_Sub_Splat_Bomb.png )  |![三重龙卷风](../special_weapon/images/Triple_Inkstrike.png )|3|
 |![Slosher](./images/S3_Weapon_Main_Tri-Slosher.png)|洗笔桶|![毒雾](../sub_weapon/images/S3_Weapon_Sub_Toxic_Mist.png ) |![喷射背包](../special_weapon/images/Inkjet.png ) |10|
 |![Sloshing_Machine](./images/S3_Weapon_Main_Sloshing_Machine.png)|Sloshing_Machine|![碳酸炸弹](../sub_weapon/images/S3_Weapon_Sub_Fizzy_Bomb.png ) |![赞气弹](../special_weapon/images/Booyah_Bomb.png)|14|
-|![Bloblobber](./images/S3_Weapon_Main_Bloblobber.png)|满溢泡澡泼桶|!![洒墨器](../sub_weapon/images/S3_Weapon_Sub_Sprinkler.png )|![墨雨云](../special_weapon/images/Ink_Storm.png ) |14|
+|![Bloblobber](./images/S3_Weapon_Main_Bloblobber.png)|满溢泡澡泼桶|![洒墨器](../sub_weapon/images/S3_Weapon_Sub_Sprinkler.png )|![墨雨云](../special_weapon/images/Ink_Storm.png ) |14|
 |![Explosher](./images/S3_Weapon_Main_Explosher.png)|Explosher|索敌盒|![墨雨云](../special_weapon/images/Ink_Storm.png ) |29|
 
 
@@ -111,7 +111,7 @@ description: 介绍斯普拉遁3（splatoon 3）的各种主武器.
 |图标|名称|副武器|特殊武器|
 |----|----|----|----|
 |![Splatana](./images/S3_Weapon_Main_Splatana.png)|雨刷刮水刀|![鱼雷](../sub_weapon/images/S3_Weapon_Sub_Torpedo.png )|![终极印章](../special_weapon/images/Ultra_Stamp.png ) |
-|![Splatana_Stamper](./images/S3_Weapon_Main_Splatana_Stamper.png)|Splatana_Stamper|!![快速炸弹](../sub_weapon/images/S3_Weapon_Sub_Burst_Bomb.png)|![触手喷射](../special_weapon/images/Zipcaster.png ) |
+|![Splatana_Stamper](./images/S3_Weapon_Main_Splatana_Stamper.png)|Splatana_Stamper|![快速炸弹](../sub_weapon/images/S3_Weapon_Sub_Burst_Bomb.png)|![触手喷射](../special_weapon/images/Zipcaster.png ) |
 
 
 ---
