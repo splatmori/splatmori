@@ -22,7 +22,7 @@ tags:
 | 图标                                                | 特殊武器                          | 增强效果                                                                                                                                                           |
 | --------------------------------------------------- | -------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![赞气弹](../weapon/special_weapon/images/Booyah_Bomb.png)                 | [赞气弹](../weapon/special_weapon/booyah_Bomb)                | 充电时间缩短，爆炸范围变大（没有赞气的情况下，最大可以缩短5.5秒充满电。） |
-| ![多重导弹](../weapon/special_weapon/images/Tenta_Missiles.png )           | [多重导弹](../weapon/special_weapon/Tenta_Missiles)           |爆炸范围增加，效果范围变大（锁定范围变大） |
+| ![多重导弹](../weapon/special_weapon/images/Tenta_Missiles.png )           | [多重导弹](../weapon/special_weapon/Tenta_Missiles)           | （锁敌）效果范围变大，爆炸范围变大|
 | ![三重龙卷风](../weapon/special_weapon/images/Triple_Inkstrike.png ) | [三重龙卷风](../weapon/special_weapon/Triple_Inkstrike) | 投掷距离变远 |
 | ![墨雨云](../weapon/special_weapon/images/Ink_Storm.png )                  | [墨雨云](../weapon/special_weapon/Ink_Storm)                  | 效果时间延长，投掷距离增加。 |
 | ![喇叭雷射5.1ch](../weapon/special_weapon/images/Killer_Wail_5_1.png )     | [喇叭雷射5.1ch](../weapon/special_weapon/Killer_Wail_5_1)     | 效果时间延长 |
@@ -31,7 +31,7 @@ tags:
 | ![能量站](../weapon/special_weapon/images/Tacticooler.png )                | [能量站](../weapon/special_weapon/Tacticooler)                | 效果时间变长（最大可以延长7秒！） |
 | ![巨大防护罩](../weapon/special_weapon/images/Big_Bubbler.png )            | [巨大防护罩](../weapon/special_weapon/Big_Bubbler)            | 效果时间延长，耐久性延长（在无攻击的情况下最大可以延长2.4秒） |
 | ![鲨鱼坐骑](../weapon/special_weapon/images/Reefslider.png )               | [鲨鱼坐骑](../weapon/special_weapon/Reefslider)               | 爆炸范围变大 |
-| ![终极发射](../weapon/special_weapon/images/Trizooka.png )                 | [终极发射](../weapon/special_weapon/Trizooka)                 | （锁敌）效果范围表变大，爆炸范围变大|
+| ![终极发射](../weapon/special_weapon/images/Trizooka.png )                 | [终极发射](../weapon/special_weapon/Trizooka)                 | 爆炸范围增加，效果时间变长|
 | ![螃蟹坦克](../weapon/special_weapon/images/Crab_Tank.png )                | [螃蟹坦克](../weapon/special_weapon/Crab_Tank)                | 效果时间延长（最大约增长1.5秒） |
 | ![终极印章](../weapon/special_weapon/images/Ultra_Stamp.png )              | [终极印章](../weapon/special_weapon/Ultra_Stamp)              |效果时间延长（最大约延长1.2秒）|
 | ![触手喷射](../weapon/special_weapon/images/Zipcaster.png )                | [触手喷射](../weapon/special_weapon/Zipcaster)                | 持续时间边长（墨水量增加）（最大可以增长2.4秒） |
