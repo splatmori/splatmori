@@ -22,7 +22,7 @@ tags:
 | 图标                                                | 特殊武器                          | 增强效果                                                                                                                                                           |
 | --------------------------------------------------- | -------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![赞气弹](../weapon/special_weapon/images/Booyah_Bomb.png)                 | [赞气弹](../weapon/special_weapon/booyah_Bomb)                | 充电时间缩短，爆炸范围变大（没有赞气的情况下，最大可以缩短5.5秒充满电。） |
-| ![多重导弹](../weapon/special_weapon/images/Tenta_Missiles.png )           | [多重导弹](../weapon/special_weapon/Tenta_Missiles)           |爆炸范围增加，效果时间变长 |
+| ![多重导弹](../weapon/special_weapon/images/Tenta_Missiles.png )           | [多重导弹](../weapon/special_weapon/Tenta_Missiles)           |爆炸范围增加，效果范围变大（锁定范围变大） |
 | ![三重龙卷风](../weapon/special_weapon/images/Triple_Inkstrike.png ) | [三重龙卷风](../weapon/special_weapon/Triple_Inkstrike) | 投掷距离变远 |
 | ![墨雨云](../weapon/special_weapon/images/Ink_Storm.png )                  | [墨雨云](../weapon/special_weapon/Ink_Storm)                  | 效果时间延长，投掷距离增加。 |
 | ![喇叭雷射5.1ch](../weapon/special_weapon/images/Killer_Wail_5_1.png )     | [喇叭雷射5.1ch](../weapon/special_weapon/Killer_Wail_5_1)     | 效果时间延长 |
